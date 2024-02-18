@@ -9,7 +9,9 @@ My first notebook (LLaVa) has been used to help a PM quickly deploy an image cap
 # Index
 
 ## 1. (LLaVa 1.6) - Visual Assistant
-Upload a picture and ask a LLM anything about it. It is great at describing an image.
+<a target="_blank" href="https://colab.research.google.com/github/maxpolaczuk/ai-nocode-notebooks/notebooks/01_llava16.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> Upload a picture and ask a LLM anything about it. It is great at describing an image.
 
 
 # Credit
