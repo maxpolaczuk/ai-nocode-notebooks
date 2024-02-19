@@ -14,7 +14,7 @@ My first notebook (LLaVa) has been used to help a PM quickly deploy an image cap
 <a target="_blank" href="https://colab.research.google.com/github/maxpolaczuk/ai-nocode-notebooks/blob/main/notebooks/01_llava16.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><br/>Upload a picture and ask a LLM anything about it. It is great at describing an image.
-![LLaVA](https://github.com/maxpolaczuk/ai-nocode-notebooks/blob/main/figs/llava-fig.png?raw=true)
+![LLaVA](https://raw.github.com/maxpolaczuk/ai-nocode-notebooks/blob/main/figs/llava-fig.png)
 
 ## 2. (Grounded SAM - LHQSAM) - Detect and Segment Anything
 <a target="_blank" href="https://colab.research.google.com/github/maxpolaczuk/ai-nocode-notebooks/blob/main/notebooks/02_grounded_sam.ipynb">
