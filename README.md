@@ -1,5 +1,5 @@
 # ai-nocode-notebooks
-Easy to use Colab notebooks for anyone to do Gen AI.
+Easy to use Colab notebooks for _anyone_ to do Gen AI.
 
 I'm writing a bunch of notebooks so that non-ml developers, product managers, execs etc can play with the latest Gen AI for free on Google Colab. 
 My notebooks are very easy to use -- simply click the "open in colab" button and press the `play` icons, then you are away sailing. 
