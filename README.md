@@ -11,8 +11,12 @@ My first notebook (LLaVa) has been used to help a PM quickly deploy an image cap
 ## 1. (LLaVa 1.6) - Visual Assistant
 <a target="_blank" href="https://colab.research.google.com/github/maxpolaczuk/ai-nocode-notebooks/blob/main/notebooks/01_llava16.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> 
-Upload a picture and ask a LLM anything about it. It is great at describing an image.
+</a><br/>Upload a picture and ask a LLM anything about it. It is great at describing an image.
+
+## 2. (Grounded SAM - LHQSAM) - Detect and Segment Anything
+<a target="_blank" href="https://colab.research.google.com/github/maxpolaczuk/ai-nocode-notebooks/blob/main/notebooks/02_grounded_sam.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br/>Upload a picture, and just ask whatever you want to locate, no training neccessary.
 
 
 # Credit
