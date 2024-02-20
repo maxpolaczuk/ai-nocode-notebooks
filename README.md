@@ -1,4 +1,4 @@
-# ai-nocode-notebooks
+# Generative AI (Nocode) Notebooks
 Easy to use Colab notebooks for _anyone_ to do Gen AI.
 
 I'm writing a bunch of notebooks so that non-ml developers, product managers, execs etc can play with the latest Gen AI for free on Google Colab. 
