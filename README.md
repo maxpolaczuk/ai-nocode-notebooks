@@ -8,6 +8,8 @@ You actually don't need to know how to code whatsoever to use my notebooks.
 
 My first notebook (LLaVa) has been used to help a PM quickly deploy an image captioning prototype in their product. Hopefully this can unlock more ai POCs for companies.
 
+Proudly sponsored by ![Idyllic](https://us.idyllic.app)
+
 # Index
 
 ## 1. (LLaVa 1.6) - Visual Assistant
