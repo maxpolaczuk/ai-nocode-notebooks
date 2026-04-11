@@ -22,7 +22,7 @@ Proudly sponsored by [Idyllic](https://us.idyllic.app)
 ## 2. (Grounded SAM - LHQSAM) - Detect and Segment Anything
 <a target="_blank" href="https://colab.research.google.com/github/maxpolaczuk/ai-nocode-notebooks/blob/main/notebooks/02_grounded_sam.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a><br/>Upload a picture, and just ask whatever you want to locate, no training neccessary.
+</a><br/>Upload a picture, and just ask whatever you want to locate, no training necessary.
 
 ![SAM](https://github.com/maxpolaczuk/ai-nocode-notebooks/blob/main/figs/gr-sam.png)
 
